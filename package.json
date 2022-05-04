@@ -1,7 +1,7 @@
 {
   "name": "to-do-list-using-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "You can check my Repo here https://github.com/zoelabbb/todolist",
   "main": "index.html",
   "scripts": {
     "start": "serve",
